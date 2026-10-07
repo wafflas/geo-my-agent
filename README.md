@@ -7,7 +7,7 @@ This is an [eve](https://eve.dev) agent bootstrapped with [`eve init`](https://e
 First, run the development server:
 
 ```bash
-eve dev
+pnpm dev
 ```
 
 The development TUI opens an interactive session where you can send messages to your agent.
